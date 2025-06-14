@@ -21,7 +21,7 @@ Developer: Ac-orange => Code Nebula Team
 
 User: Anyone
 
-Prize: Free
+price: Free
 
 version: experiment-0.0.1
 
